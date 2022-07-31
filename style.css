@@ -1,0 +1,71 @@
+body {
+
+ font-family: 'Macondo', cursive;
+
+ background-size: cover;
+
+ background-position: center;
+
+ background-repeat: no-repeat;
+
+}
+
+.btn-info {
+
+ padding: 10px;
+
+ font-size: 20px;
+
+}
+
+.btn-danger {
+
+ float: right;
+
+ margin-right: 25px;
+
+ padding: 10px;
+
+ font-size: 20px;
+
+}
+
+.a:hover {
+
+ text-decoration: none;
+
+ background-color: pink;
+
+ color: black;
+
+}
+
+.a {
+
+display: inline-block;
+
+width: 300px;
+
+color: black;
+
+font-size: 20px;
+
+background-color: white;
+
+padding: 5px;
+
+border-radius: 15px;
+
+transition-duration: 1s;
+
+}
+
+canvas {
+
+ box-shadow: 10px 10px 10px grey;
+
+ border-radius: 10px;
+
+ margin-top: 145px;
+
+}
